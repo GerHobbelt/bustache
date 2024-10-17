@@ -76,7 +76,7 @@ struct file_context
     }
 };
 
-int main()
+int main(void)
 {
     try
     {

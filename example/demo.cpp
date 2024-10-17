@@ -43,7 +43,7 @@ R"(<h1>{{header}}</h1>
     </ul>
 </div>)";
 
-int main()
+int main(void)
 {
     using namespace test;
     using namespace bustache::literals;

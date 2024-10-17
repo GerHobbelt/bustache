@@ -20,7 +20,7 @@ struct reference
 
 BOOST_DESCRIBE_STRUCT(reference, (), (heading, items))
 
-int main()
+int main(void)
 {
     reference ref =
     {
